@@ -37,7 +37,7 @@ I am a Software Engineer and Computer Science and Engineering (Artificial Intell
 ### 02 // FEATURED SYSTEMS (PUBLIC REPOSITORIES)
 
 #### CodeOrigin
-##### CODEBASE INTELLIGENCE & TECHNICAL ANALYSIS
+##### CODEBASE INTELLIGENCE & TECHNICAL ANALYSIS | [Repository](https://github.com/Basharameez/codeorigin)
 
 A platform for analyzing software repositories across technical, architectural, quality, security, and engineering dimensions.
 
@@ -53,11 +53,33 @@ A platform for analyzing software repositories across technical, architectural, 
 
 A web-based development environment enabling real-time execution of Python code snippets with output capturing.
 
-*   *Technologies*: Python, HTML5, CSS3, JavaScript
+*   *Technologies*: Python, HTML5, CSS3, JavaScript, Flask, Matplotlib
 *   *Key Focus Areas*:
     *   Executing code inputs within local sandboxed environments
     *   Redirection and mapping of stdout and stderr streams
-    *   Responsive web-based console interface
+    *   Interactive client-side data plotting visualizers
+
+#### student-info-portal
+##### CLIENT-SIDE RECORDS DASHBOARD | [Repository](https://github.com/Basharameez/student-info-portal)
+
+A serverless, client-side web interface that ingests institutional spreadsheets directly into browser sessions and parses student directories.
+
+*   *Technologies*: HTML5, CSS3, JavaScript, SheetJS (`xlsx.full.min.js`)
+*   *Key Focus Areas*:
+    *   Local browser parsing of binary `.xlsx` spreadsheets
+    *   Client-side search indexing and regex query filters
+    *   Fallback image loading loops for profile photos
+
+#### INTEL_3
+##### INTERACTIVE ADAPTIVE TUTOR PROTOTYPE | [Repository](https://github.com/Basharameez/INTEL_3)
+
+A Jupyter-based prototype of an adaptive learning system utilizing local SQLite relational databases to custom-route educational paths.
+
+*   *Technologies*: Python, SQLite, Jupyter Notebooks, Ipywidgets
+*   *Key Focus Areas*:
+    *   Credential validation with SHA-256 password hashes
+    *   State-driven adaptive routing rules based on user score logs
+    *   Form rendering using Jupyter widgets and outputs
 
 ---
 
