@@ -23,7 +23,7 @@
 <a href="mailto:shaikbashah20@gmail.com">
 <img src="https://img.shields.io/badge/CONTACT-171717?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="[https://www.linkedin.com/in/shaik-rameez-basha](https://www.linkedin.com/in/shaik-rameez-basha-151740286/)">
+<a href="https://www.linkedin.com/in/shaik-rameez-basha-151740286/">
 <img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Basharameez">
