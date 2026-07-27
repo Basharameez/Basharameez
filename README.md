@@ -6,32 +6,12 @@
 
 <br>
 
-<table>
-<tr>
-<td align="center">
+<img src="https://img.shields.io/badge/AI%20SYSTEMS-161616?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-161616?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/DEVELOPER%20INFRASTRUCTURE-161616?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/ENGINEERING%20DATA-161616?style=for-the-badge&logo=databricks&logoColor=white" />
 
-<img src="https://img.shields.io/badge/AI%20SYSTEMS-161616?style=flat-square&logo=openai&logoColor=FFFFFF" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-161616?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/DEVELOPER%20INFRASTRUCTURE-161616?style=flat-square&logo=github&logoColor=FFFFFF" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/ENGINEERING%20DATA-161616?style=flat-square&logo=databricks&logoColor=FFFFFF" />
-
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 > **I build intelligent systems for complex problems.**
 
@@ -71,16 +51,8 @@ I enjoy taking difficult problems from the first architectural idea to a working
 
 <table>
 <tr>
-<td>
-
-### SYSTEM STATE
-
-</td>
-<td align="right">
-
-<img src="https://img.shields.io/badge/●-ACTIVE-8B0000?style=flat-square" />
-
-</td>
+<td><b>SYSTEM STATE</b></td>
+<td align="right"><img src="https://img.shields.io/badge/ACTIVE-8B0000?style=flat-square" /></td>
 </tr>
 </table>
 
@@ -88,26 +60,28 @@ I enjoy taking difficult problems from the first architectural idea to a working
 
 ### CURRENT FOCUS
 
-```text
-AI SYSTEMS
-SOFTWARE INTELLIGENCE
-MLOPS
-ENGINEERING ANALYTICS
-```
+<table>
+<tr><td>AI SYSTEMS</td></tr>
+<tr><td>SOFTWARE INTELLIGENCE</td></tr>
+<tr><td>MLOPS</td></tr>
+<tr><td>ENGINEERING ANALYTICS</td></tr>
+</table>
 
 <br>
 
-### OPERATING MODE
+### ENGINEERING LOOP
 
-```text
-UNDERSTAND
-    ↓
-DESIGN
-    ↓
-BUILD
-    ↓
-IMPROVE
-```
+<table>
+<tr>
+<td align="center"><b>UNDERSTAND</b></td>
+<td align="center">→</td>
+<td align="center"><b>DESIGN</b></td>
+<td align="center">→</td>
+<td align="center"><b>BUILD</b></td>
+<td align="center">→</td>
+<td align="center"><b>IMPROVE</b></td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -125,7 +99,7 @@ IMPROVE
 <tr>
 <td width="25%" align="center">
 
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="34" height="34" />
+<img src="https://img.shields.io/badge/AI-161616?style=for-the-badge&logo=openai&logoColor=white" />
 
 ### AI SYSTEMS
 
@@ -135,7 +109,7 @@ Machine learning, explainable AI, intelligent applications, and LLM-powered work
 
 <td width="25%" align="center">
 
-<img src="https://cdn.simpleicons.org/react/FFFFFF" width="34" height="34" />
+<img src="https://img.shields.io/badge/CODE-161616?style=for-the-badge&logo=react&logoColor=white" />
 
 ### SOFTWARE
 
@@ -145,7 +119,7 @@ Full-stack applications, APIs, databases, and production systems.
 
 <td width="25%" align="center">
 
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="34" height="34" />
+<img src="https://img.shields.io/badge/INTEL-161616?style=for-the-badge&logo=github&logoColor=white" />
 
 ### INTELLIGENCE
 
@@ -155,7 +129,7 @@ Code analysis, repository intelligence, developer tooling, and technical due dil
 
 <td width="25%" align="center">
 
-<img src="https://cdn.simpleicons.org/plotly/FFFFFF" width="34" height="34" />
+<img src="https://img.shields.io/badge/DATA-161616?style=for-the-badge&logo=plotly&logoColor=white" />
 
 ### COMPLEX DATA
 
@@ -177,49 +151,45 @@ Engineering analytics, scientific computing, telemetry, and visualization.
 <tr>
 <td width="50%" valign="top">
 
-<h3>01 / CODEORIGIN</h3>
+### 01 / CODEORIGIN
 
-<h4>SOFTWARE INTELLIGENCE</h4>
+#### SOFTWARE INTELLIGENCE
 
-<p>
 A platform for analyzing software repositories and extracting insights about architecture, code quality, security, maintainability, and engineering maturity.
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/AST-161616?style=flat-square&logo=python&logoColor=FFFFFF" />
-</p>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/●%20ACTIVE-8B0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/AST-161616?style=flat-square&logo=python&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ACTIVE-8B0000?style=flat-square" />
 &nbsp;
 <a href="https://github.com/Basharameez/codeorigin">OPEN SYSTEM →</a>
-</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>02 / MODELFORGE</h3>
+### 02 / MODELFORGE
 
-<h4>MLOPS INFRASTRUCTURE</h4>
+#### MLOPS INFRASTRUCTURE
 
-<p>
 A production-oriented platform for machine learning lifecycle management, experimentation, evaluation, and deployment infrastructure.
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/PostgreSQL-161616?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
-</p>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/◉%20BUILDING-8B0000?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-161616?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILDING-8B0000?style=flat-square" />
 
 </td>
 </tr>
@@ -227,47 +197,43 @@ A production-oriented platform for machine learning lifecycle management, experi
 <tr>
 <td width="50%" valign="top">
 
-<h3>03 / INFRASIGHT AI</h3>
+### 03 / INFRASIGHT AI
 
-<h4>TECHNICAL INTELLIGENCE</h4>
+#### TECHNICAL INTELLIGENCE
 
-<p>
 An AI-powered platform designed to analyze complex software and infrastructure environments and transform technical information into actionable engineering insights.
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/PostgreSQL-161616?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
-</p>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/◉%20BUILDING-8B0000?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-161616?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILDING-8B0000?style=flat-square" />
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>04 / ROTORDYN</h3>
+### 04 / ROTORDYN
 
-<h4>INDUSTRIAL ENGINEERING ANALYTICS</h4>
+#### INDUSTRIAL ENGINEERING ANALYTICS
 
-<p>
 Engineering software for vibration telemetry, diagnostic visualization, desktop applications, and AI-assisted reporting.
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/PySide6-161616?style=flat-square&logo=qt&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Plotly-161616?style=flat-square&logo=plotly&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
-</p>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/●%20PROPRIETARY-8B0000?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PySide6-161616?style=flat-square&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-161616?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PROPRIETARY-8B0000?style=flat-square" />
 
 </td>
 </tr>
@@ -321,7 +287,7 @@ Telemetry ingestion, engineering visualization, diagnostic workflows, desktop so
 <tr>
 <td width="18%" align="center">
 
-<img src="https://cdn.simpleicons.org/ieee/FFFFFF" width="46" height="46" />
+<img src="https://img.shields.io/badge/IEEE-161616?style=for-the-badge&logo=ieee&logoColor=white" />
 
 </td>
 <td width="82%">
@@ -345,37 +311,29 @@ IEEE Xplore publication focused on understanding and interpreting machine learni
 </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vite,tailwind,fastapi,nodejs,express,postgres,mongodb,sqlite,docker,git,linux&theme=dark" />
-</p>
+
+<img src="https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-161616?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-161616?style=for-the-badge&logo=vite&logoColor=white" />
 
 <br>
 
-<table>
-<tr>
-<td><b>LANGUAGES</b></td>
-<td>Python · TypeScript · JavaScript · SQL</td>
-</tr>
-<tr>
-<td><b>FRONTEND</b></td>
-<td>React · Vite · Tailwind CSS · D3.js · Plotly.js</td>
-</tr>
-<tr>
-<td><b>BACKEND</b></td>
-<td>FastAPI · Node.js · Express · REST APIs · WebSockets</td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>Machine Learning · Explainable AI · MLOps · LLM Applications</td>
-</tr>
-<tr>
-<td><b>DATA</b></td>
-<td>PostgreSQL · Supabase · MongoDB · SQLite</td>
-</tr>
-<tr>
-<td><b>INFRASTRUCTURE</b></td>
-<td>Docker · Git · Linux · CI/CD · Cloud Deployment</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/FastAPI-161616?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-161616?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-161616?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-161616?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-161616?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-161616?style=for-the-badge&logo=plotly&logoColor=white" />
+
+</p>
 
 ---
 
@@ -383,73 +341,72 @@ IEEE Xplore publication focused on understanding and interpreting machine learni
 
 ## `07` / CURRENT DIRECTION
 
-<br>
+</div>
 
 <table>
 <tr>
-<td align="center">
+<td width="25%" align="center">
 
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="30" />
+<img src="https://img.shields.io/badge/AI-161616?style=for-the-badge&logo=openai&logoColor=white" />
 
-<br>
+<br><br>
 
-**AI-POWERED<br>DEVELOPER TOOLS**
-
-</td>
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" />
-
-<br>
-
-**SOFTWARE<br>INTELLIGENCE**
+<b>AI-POWERED<br>DEVELOPER TOOLS</b>
 
 </td>
-<td align="center">
 
-<img src="https://cdn.simpleicons.org/pytorch/FFFFFF" width="30" />
+<td width="25%" align="center">
 
-<br>
+<img src="https://img.shields.io/badge/CODE-161616?style=for-the-badge&logo=github&logoColor=white" />
 
-**MLOPS & MACHINE<br>LEARNING INFRASTRUCTURE**
+<br><br>
+
+<b>SOFTWARE<br>INTELLIGENCE</b>
 
 </td>
-<td align="center">
 
-<img src="https://cdn.simpleicons.org/plotly/FFFFFF" width="30" />
+<td width="25%" align="center">
 
-<br>
+<img src="https://img.shields.io/badge/ML-161616?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-**ENGINEERING<br>ANALYTICS**
+<br><br>
+
+<b>MLOPS & MACHINE<br>LEARNING INFRASTRUCTURE</b>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/DATA-161616?style=for-the-badge&logo=plotly&logoColor=white" />
+
+<br><br>
+
+<b>ENGINEERING<br>ANALYTICS</b>
 
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+<div align="center">
 
 ### AI × SOFTWARE ENGINEERING × COMPLEX SYSTEMS
 
 <sub>Creating systems that make complex technology easier to understand.</sub>
 
-</div>
-
----
-
-<div align="center">
-
-<br>
+<br><br>
 
 <a href="mailto:shaikbashah20@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-161616?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/EMAIL-161616?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/shaik-rameez-basha">
-<img src="https://img.shields.io/badge/LINKEDIN-161616?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LINKEDIN-161616?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/Basharameez">
-<img src="https://img.shields.io/badge/GITHUB-161616?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GITHUB-161616?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
