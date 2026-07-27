@@ -1,7 +1,7 @@
 # Hi there, I'm Shaik Rameez Basha! 👋
 
 <p align="center">
-  <img src="profile-card.svg" width="100%" alt="Shaik Rameez Basha Profile HUD Card" />
+  <img src="profile-hud.svg" width="100%" alt="Shaik Rameez Basha Profile HUD Card" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ### 🔴 02 // ARSENAL TELEMETRY (SKILLS MATRIX)
 
 <p align="center">
-  <img src="stats-panel.svg" width="100%" alt="Shaik Rameez Basha Skills Telemetry Matrix" />
+  <img src="stats-hud.svg" width="100%" alt="Shaik Rameez Basha Skills Telemetry Matrix" />
 </p>
 
 ---
