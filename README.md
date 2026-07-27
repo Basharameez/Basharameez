@@ -23,14 +23,50 @@
 
 ---
 
-### 🔴 03 // FEATURED MISSION REGISTRY
+### 🔴 03 // FEATURED MISSION REGISTRY (INTERACTIVE DOSSIERS)
 
-| MISSION | STATUS & TECHNICAL SPECIFICATION DETAILS |
-| :--- | :--- |
-| **CodeOrigin**<br>`M-01 // AUDITOR` | **Codebase Intelligence & Static Parsing** &bull; [Repository](https://github.com/Basharameez/codeorigin)<br>Runs non-execution static analyses on target repositories to map syntax trees, trace class inheritances, check license compliance, and audit security vectors.<br><br>`FastAPI` &bull; `Python AST` &bull; `React` &bull; `TypeScript` &bull; `SQLite` |
-| **python_web_compiler**<br>`M-02 // SANDBOX` | **Web Execution Playground** &bull; [Repository](https://github.com/Basharameez/python_web_compiler)<br>Compiles user-submitted Python payloads inside Flask threads, capturing stdout channels to export active matplotlib coordinate logs as HTML image objects.<br><br>`Python` &bull; `Flask Runtimes` &bull; `Matplotlib` &bull; `HTML5 Console` |
-| **student-info-portal**<br>`M-03 // INGEST` | **Student Roster Database** &bull; [Repository](https://github.com/Basharameez/student-info-portal)<br>Processes student records, parses spreadsheets, indexes schema columns, and executes lookups.<br><br>`HTML5` &bull; `CSS3` &bull; `JavaScript` &bull; `SheetJS` |
-| **INTEL_3**<br>`M-04 // DATALAB` | **Academic Analytics Notebook** &bull; [Repository](https://github.com/Basharameez/INTEL_3)<br>Adaptive database modeling prototype in Jupyter Notebook mapping user progress scores to SQLite databases.<br><br>`SQLite` &bull; `Jupyter Notebooks` &bull; `Ipywidgets` |
+> [!TIP]
+> Click on the project node headers below to expand their technical dossiers.
+
+<details>
+  <summary><b>[▶] SELECT MODULE // M-01 // CODEORIGIN (AST AUDITOR)</b></summary>
+  <br/>
+  <blockquote>
+    <strong>Operational Status: ACTIVE // Repository: <a href="https://github.com/Basharameez/codeorigin" target="_blank">Basharameez/codeorigin</a></strong>
+    <p>Runs non-execution static analyses on target repositories to map syntax trees, trace class inheritances, check license compliance, and audit security vectors without compilation requirements.</p>
+    <em>Hardware Stack: FastAPI &bull; Python AST &bull; React &bull; TypeScript &bull; SQLite</em>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>[▶] SELECT MODULE // M-02 // PYTHON_WEB_COMPILER (RUNTIMES)</b></summary>
+  <br/>
+  <blockquote>
+    <strong>Operational Status: DEPLOYED // Repository: <a href="https://github.com/Basharameez/python_web_compiler" target="_blank">Basharameez/python_web_compiler</a></strong>
+    <p>Compiles user-submitted Python payloads inside Flask threads, capturing stdout channels to export active matplotlib coordinate logs as HTML image objects.</p>
+    <em>Hardware Stack: Python &bull; Flask Runtimes &bull; Matplotlib &bull; HTML5 Console</em>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>[▶] SELECT MODULE // M-03 // STUDENT_INFO_PORTAL (INGEST)</b></summary>
+  <br/>
+  <blockquote>
+    <strong>Operational Status: DECOMMISSIONED // Repository: <a href="https://github.com/Basharameez/student-info-portal" target="_blank">Basharameez/student-info-portal</a></strong>
+    <p>Processes student records, parses spreadsheets, indexes schema columns, and executes multi-criteria queries inside browser environments.</p>
+    <em>Hardware Stack: HTML5 &bull; CSS3 &bull; JavaScript &bull; SheetJS Ingestion</em>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>[▶] SELECT MODULE // M-04 // INTEL_3 (AI DATALAB)</b></summary>
+  <br/>
+  <blockquote>
+    <strong>Operational Status: ARCHIVED // Repository: <a href="https://github.com/Basharameez/INTEL_3" target="_blank">Basharameez/INTEL_3</a></strong>
+    <p>Adaptive personal tutor database prototype mapping user progress scores to SQLite relational schemas inside Jupyter environments.</p>
+    <em>Hardware Stack: SQLite &bull; Jupyter Notebooks &bull; Ipywidgets</em>
+  </blockquote>
+</details>
 
 ---
 
