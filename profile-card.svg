@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800" height="280">
+  <defs>
+    <!-- Neumorphic Drop Shadows Filter -->
+    <filter id="neumorphic-card" x="-10%" y="-10%" width="120%" height="120%">
+      <!-- Lower-right dark shadow -->
+      <feDropShadow dx="6" dy="6" stdDeviation="9" flood-color="#050508" flood-opacity="1" result="shadow" />
+      <!-- Upper-left red glow highlight -->
+      <feDropShadow dx="-5" dy="-5" stdDeviation="8" flood-color="#3a0303" flood-opacity="0.9" in="shadow" />
+    </filter>
+    
+    <!-- Profile Avatar rectangular crop -->
+    <clipPath id="avatar-clip">
+      <rect x="45" y="45" width="190" height="190" rx="16" />
+    </clipPath>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="100%" height="100%" fill="transparent" />
+
+  <!-- Neumorphic Card Base -->
+  <rect x="15" y="15" width="770" height="250" rx="20" fill="#101014" stroke="#1c1c22" stroke-width="1.5" filter="url(#neumorphic-card)" />
+
+  <!-- Avatar frame -->
+  <g>
+    <!-- Solid offset red background backing -->
+    <rect x="50" y="50" width="190" height="190" rx="16" fill="#8a0303" opacity="0.3" transform="translate(4, 4)" />
+    <!-- Cropped Avatar image -->
+    <image href="avatar.jpg" x="45" y="45" width="190" height="190" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip)" />
+    <!-- Sleek border stroke -->
+    <rect x="45" y="45" width="190" height="190" rx="16" fill="none" stroke="#E60012" stroke-width="2.5" />
+  </g>
+
+  <!-- Technical Specs Content -->
+  <g transform="translate(265, 0)">
+    <!-- Header code label -->
+    <rect x="0" y="45" width="225" height="20" rx="4" fill="#E60012" />
+    <text x="12" y="59" font-family="'Space Mono', 'Courier New', monospace" font-size="9" font-weight="bold" fill="#ffffff" letter-spacing="1">SYSTEM-SRB v2.026 // HUD</text>
+
+    <!-- Name display -->
+    <text x="0" y="98" font-family="'Outfit', -apple-system, sans-serif" font-size="28" font-weight="900" fill="#ffffff" letter-spacing="-0.5">SHAIK RAMEEZ BASHA</text>
+    <text x="0" y="122" font-family="'Outfit', -apple-system, sans-serif" font-size="12" font-weight="700" fill="#E60012" letter-spacing="1.5">COGNITIVE SYSTEMS DEVELOPER</text>
+
+    <!-- Details list -->
+    <g transform="translate(0, 142)">
+      <!-- Line 1: Education -->
+      <circle cx="5" cy="11" r="3" fill="#E60012" />
+      <text x="18" y="15" font-family="'Outfit', -apple-system, sans-serif" font-size="11.5" font-weight="500" fill="#cccccc">B.Tech Computer Science (AI) &bull; NEC JNTUK &bull; CGPA 7.79</text>
+      
+      <!-- Line 2: Research -->
+      <circle cx="5" cy="33" r="3" fill="#E60012" />
+      <text x="18" y="37" font-family="'Outfit', -apple-system, sans-serif" font-size="11.5" font-weight="500" fill="#cccccc">Explainable AI Research Co-author Published in IEEE Xplore (2026)</text>
+      
+      <!-- Line 3: Experience -->
+      <circle cx="5" cy="55" r="3" fill="#E60012" />
+      <text x="18" y="59" font-family="'Outfit', -apple-system, sans-serif" font-size="11.5" font-weight="500" fill="#cccccc">Full-Stack Engineer Node at AfterQuery (2024 - Present)</text>
+
+      <!-- Line 4: Telemetry -->
+      <circle cx="5" cy="77" r="3" fill="#E60012" />
+      <text x="18" y="81" font-family="'Outfit', -apple-system, sans-serif" font-size="11.5" font-weight="500" fill="#cccccc">Telemetry Diagnostic Waveforms &amp; Widgets Designer</text>
+    </g>
+  </g>
+</svg>

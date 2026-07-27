@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320">
+  <defs>
+    <!-- Neumorphic Drop Shadows Filter -->
+    <filter id="neumorphic-card" x="-10%" y="-10%" width="120%" height="120%">
+      <!-- Lower-right dark shadow -->
+      <feDropShadow dx="6" dy="6" stdDeviation="9" flood-color="#050508" flood-opacity="1" result="shadow" />
+      <!-- Upper-left red glow highlight -->
+      <feDropShadow dx="-5" dy="-5" stdDeviation="8" flood-color="#3a0303" flood-opacity="0.9" in="shadow" />
+    </filter>
+    
+    <!-- Sunken track shadow filter for carved progress bars -->
+    <filter id="sunken-track">
+      <feDropShadow dx="1" dy="1" stdDeviation="2" flood-color="#000000" flood-opacity="0.8" />
+    </filter>
+
+    <!-- Progress bar red gradient -->
+    <linearGradient id="red-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8a0303" />
+      <stop offset="70%" stop-color="#E60012" />
+      <stop offset="100%" stop-color="#ff3d00" />
+    </linearGradient>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="100%" height="100%" fill="transparent" />
+
+  <!-- Neumorphic Card Base -->
+  <rect x="15" y="15" width="770" height="290" rx="20" fill="#101014" stroke="#1c1c22" stroke-width="1.5" filter="url(#neumorphic-card)" />
+
+  <!-- Panel Header Title -->
+  <g transform="translate(45, 42)">
+    <text x="0" y="15" font-family="'Outfit', -apple-system, sans-serif" font-size="14" font-weight="900" fill="#ffffff" letter-spacing="1.5">ARSENAL TELEMETRY MATRIX</text>
+    <line x1="0" y1="25" x2="710" y2="25" stroke="#1c1c22" stroke-width="1.5" />
+    <line x1="0" y1="25" x2="140" y2="25" stroke="#E60012" stroke-width="2.5" />
+  </g>
+
+  <!-- Progress Bars Group -->
+  <g transform="translate(45, 90)">
+    
+    <!-- 1. Full-Stack Systems -->
+    <g transform="translate(0, 0)">
+      <text x="0" y="12" font-family="'Outfit', -apple-system, sans-serif" font-size="11" font-weight="800" fill="#cccccc" letter-spacing="0.5">🌐 FULL-STACK SYSTEMS DEVELOPMENT</text>
+      <text x="710" y="12" font-family="'Space Mono', monospace" font-size="11" font-weight="bold" fill="#ff3d00" text-anchor="end">90% POWER</text>
+      <!-- Sunken Track -->
+      <rect x="0" y="20" width="710" height="12" rx="6" fill="#07070a" stroke="#15151a" stroke-width="1" filter="url(#sunken-track)" />
+      <!-- Active Progress -->
+      <rect x="0" y="20" width="639" height="12" rx="6" fill="url(#red-gradient)" />
+      <!-- Indicator Glow dot -->
+      <circle cx="639" cy="26" r="4" fill="#ffffff" />
+    </g>
+
+    <!-- 2. Developer Tools & Compilers -->
+    <g transform="translate(0, 50)">
+      <text x="0" y="12" font-family="'Outfit', -apple-system, sans-serif" font-size="11" font-weight="800" fill="#cccccc" letter-spacing="0.5">⚙️ DEVELOPER COMPILERS &amp; AST TOOLS</text>
+      <text x="710" y="12" font-family="'Space Mono', monospace" font-size="11" font-weight="bold" fill="#ff3d00" text-anchor="end">85% POWER</text>
+      <!-- Sunken Track -->
+      <rect x="0" y="20" width="710" height="12" rx="6" fill="#07070a" stroke="#15151a" stroke-width="1" filter="url(#sunken-track)" />
+      <!-- Active Progress -->
+      <rect x="0" y="20" width="603" height="12" rx="6" fill="url(#red-gradient)" />
+      <circle cx="603" cy="26" r="4" fill="#ffffff" />
+    </g>
+
+    <!-- 3. Machine Learning & AI -->
+    <g transform="translate(0, 100)">
+      <text x="0" y="12" font-family="'Outfit', -apple-system, sans-serif" font-size="11" font-weight="800" fill="#cccccc" letter-spacing="0.5">🧠 MACHINE LEARNING &amp; EXPLAINABLE AI</text>
+      <text x="710" y="12" font-family="'Space Mono', monospace" font-size="11" font-weight="bold" fill="#ff3d00" text-anchor="end">80% POWER</text>
+      <!-- Sunken Track -->
+      <rect x="0" y="20" width="710" height="12" rx="6" fill="#07070a" stroke="#15151a" stroke-width="1" filter="url(#sunken-track)" />
+      <!-- Active Progress -->
+      <rect x="0" y="20" width="568" height="12" rx="6" fill="url(#red-gradient)" />
+      <circle cx="568" cy="26" r="4" fill="#ffffff" />
+    </g>
+
+    <!-- 4. Telemetry Diagnostics -->
+    <g transform="translate(0, 150)">
+      <text x="0" y="12" font-family="'Outfit', -apple-system, sans-serif" font-size="11" font-weight="800" fill="#cccccc" letter-spacing="0.5">📈 INDUSTRIAL TELEMETRY DIAGNOSTICS</text>
+      <text x="710" y="12" font-family="'Space Mono', monospace" font-size="11" font-weight="bold" fill="#ff3d00" text-anchor="end">75% POWER</text>
+      <!-- Sunken Track -->
+      <rect x="0" y="20" width="710" height="12" rx="6" fill="#07070a" stroke="#15151a" stroke-width="1" filter="url(#sunken-track)" />
+      <!-- Active Progress -->
+      <rect x="0" y="20" width="532" height="12" rx="6" fill="url(#red-gradient)" />
+      <circle cx="532" cy="26" r="4" fill="#ffffff" />
+    </g>
+
+  </g>
+</svg>
