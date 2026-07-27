@@ -1,11 +1,17 @@
-# SHAIK RAMEEZ BASHA
+# Hi there, I'm Shaik Rameez Basha! 👋
 
-Software Engineer | Full-Stack Developer | AI/ML Engineer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=24&duration=3000&pause=1000&color=D31212&width=435&lines=Hi+there%2C+I'm+Shaik+Rameez+Basha!👋;Software+Engineer;Full-Stack+Developer;AI%2FML+Engineer" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Basharameez&color=d31212&style=flat-square" alt="Profile Views" />
+</p>
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="22%" align="center" valign="middle">
-      <img src="avatar.jpg" width="130" style="border-radius: 8px; border: 2px solid #5155f5; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" alt="Shaik Rameez Basha" />
+      <img src="avatar.jpg" width="130" style="border-radius: 8px; border: 2.5px solid #000000; box-shadow: 4px 4px 0px #000000;" alt="Shaik Rameez Basha" />
     </td>
     <td width="78%" valign="top">
       <p>
@@ -62,11 +68,55 @@ Software Engineer | Full-Stack Developer | AI/ML Engineer
 
 ### 04 // TECHNICAL SPECIFICATION MATRIX
 
-*   **Languages**: `Python` &bull; `JavaScript` &bull; `TypeScript` &bull; `SQL`
-*   **Frontend**: `React` &bull; `Vite` &bull; `Tailwind CSS` &bull; `Plotly.js` &bull; `D3.js`
-*   **Backend**: `FastAPI` &bull; `Node.js` &bull; `Express.js` &bull; `REST APIs` &bull; `WebSockets`
-*   **Databases**: `PostgreSQL` &bull; `Supabase` &bull; `MongoDB` &bull; `SQLite`
-*   **Tools**: `Git` &bull; `GitHub` &bull; `Docker` &bull; `PySide6` &bull; `Qt WebEngine`
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend / Runtimes</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind_css&logoColor=white" alt="TailwindCSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / Data Pipelines</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases & Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Desktop / Telemetry</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=flat-square&logo=Qt&logoColor=white" alt="Qt / PySide6" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -80,3 +130,16 @@ Software Engineer | Full-Stack Developer | AI/ML Engineer
 #### Explainable Artificial Intelligence Research
 ##### Published in IEEE Xplore | 2026
 *   *Focus*: Investigating model interpretability frameworks and decision activation paths inside deep learning models.
+
+---
+
+### 📊 Live GitHub Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basharameez&show_icons=true&theme=radical&border_color=000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basharameez&layout=compact&theme=radical&border_color=000000" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basharameez&theme=radical&border_color=000000" alt="GitHub Streak" width="98%" />
+</p>
