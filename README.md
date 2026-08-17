@@ -131,7 +131,7 @@ Engineering analytics, scientific computing, telemetry, and interactive visualiz
 <tr>
 <td align="center">
 
-### 4+
+### 5+
 
 <b>ENGINEERING DOMAINS</b>
 
@@ -283,6 +283,46 @@ This work combines software engineering with a specialized industrial domain whe
 <td width="35%" align="center">
 
 <img src="https://img.shields.io/badge/PROPRIETARY-9B1C1C?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 05 / BIOVISION-PATH
+
+#### EXPLAINABLE BIOMEDICAL COMPUTER VISION
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+A production-quality explainable multi-task biomedical computer vision pipeline. Performs colorectal tissue classification (ResNet-18) with Grad-CAM overlays, breast cancer cell nuclei segmentation (U-Net), smear cell detection (Faster R-CNN), and embedding KNN image search.
+
+Features a live dashboard deployed on Hugging Face Spaces.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-171717?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-171717?style=flat-square&logo=gradio&logoColor=white" />
+<img src="https://img.shields.io/badge/ZeroGPU-171717?style=flat-square&logo=huggingface&logoColor=white" />
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://img.shields.io/badge/ACTIVE-9B1C1C?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/Basharameez/BioVision-Path">
+<b>EXPLORE SYSTEM →</b>
+</a>
+<br>
+<a href="https://huggingface.co/spaces/BASHARAMEEZ/BioVision-Path">
+<b>LIVE SPACE →</b>
+</a>
 
 </td>
 </tr>
