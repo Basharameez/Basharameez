@@ -29,6 +29,9 @@
 <a href="https://github.com/Basharameez">
 <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="http://rameezbasha.freedev.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-171717?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </p>
 
 </div>
@@ -515,6 +518,10 @@ IEEE Xplore publication focused on understanding and interpreting machine learni
 
 <a href="https://github.com/Basharameez">
 <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="http://rameezbasha.freedev.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-171717?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
