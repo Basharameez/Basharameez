@@ -1,119 +1,152 @@
-# Hi there, I'm Shaik Rameez Basha! 👋
+# Shaik Rameez Basha
 
-<p align="center">
-  <img src="profile-hud.svg" width="100%" alt="Shaik Rameez Basha Profile HUD Card" />
-</p>
+### AI/ML & GenAI Engineer | Full-Stack Engineer
 
----
+Building production-oriented intelligent systems across LLM applications, computer vision, explainable AI, NLP, and full-stack engineering.
 
-### 🔴 01 // SYSTEM FOCUS MATRIX
-
-| 🌐 FULL-STACK CORE | 🧠 AI INFERENCE | ⚙️ DEV COMPILERS |
-| :--- | :--- | :--- |
-| Building modern React layers, FastAPI workers, and relational schemas. | Mapping explainable deep learning features and datasets paths. | Traversing Python AST structures and capturing compiler outputs. |
-| `React` &bull; `TypeScript` &bull; `SQL` | `PyTorch` &bull; `Explainable AI` | `AST Nodes` &bull; `Runtimes` |
+[Portfolio](https://my-portfolio-six-murex-52.vercel.app/) &bull; [LinkedIn](https://www.linkedin.com/in/shaik-rameezbasha-151740286/) &bull; [Email](mailto:shaikbashah20@gmail.com)
 
 ---
 
-### 🔴 02 // ARSENAL TELEMETRY (SKILLS MATRIX)
+## About Me
 
-<p align="center">
-  <img src="stats-hud.svg" width="100%" alt="Shaik Rameez Basha Skills Telemetry Matrix" />
-</p>
+I am an AI/ML & GenAI Engineer focused on building production-oriented intelligent applications that combine AI with practical software engineering. My work spans LLM-powered applications, AI assistants, AI-powered report generation, computer vision, explainable AI, intelligent workflow systems, backend engineering, frontend applications, databases, APIs, testing, and deployment.
 
----
-
-### 🔴 03 // FEATURED MISSION REGISTRY (INTERACTIVE DOSSIERS)
-
-> [!TIP]
-> Click on the project node headers below to expand their technical dossiers.
-
-<details>
-  <summary><b>[▶] SELECT MODULE // M-01 // REMOTE TREATMENT MONITORING LAYER</b></summary>
-  <br/>
-  <blockquote>
-    <strong>Operational Status: EXPERIMENTAL / PROTOTYPE // Repository: <a href="https://github.com/Basharameez/snazzy" target="_blank">Basharameez/snazzy</a></strong>
-    <p>Clinician-support layer evaluating patient image streams (resolution and lighting metrics) and projecting Grad-CAM gradient activations directly onto clinician review dashboards.</p>
-    <em>Hardware Stack: Python &bull; PyTorch &bull; Explainable AI &bull; Grad-CAM &bull; FastAPI &bull; React</em>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>[▶] SELECT MODULE // M-02 // BIOVISION-PATH (CELL VISION)</b></summary>
-  <br/>
-  <blockquote>
-    <strong>Operational Status: DEPLOYED // Repository: <a href="https://github.com/Basharameez/BioVision-Path" target="_blank">Basharameez/BioVision-Path</a></strong>
-    <p>Multi-task biomedical vision pipeline executing segmentation, detection, and embedding visual search, with Grad-CAM layers for model explainability.</p>
-    <em>Hardware Stack: PyTorch &bull; ONNX &bull; Explainable AI &bull; Python &bull; Hugging Face Spaces</em>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>[▶] SELECT MODULE // M-03 // CODEORIGIN (AST AUDITOR)</b></summary>
-  <br/>
-  <blockquote>
-    <strong>Operational Status: ACTIVE // Repository: <a href="https://github.com/Basharameez/codeorigin" target="_blank">Basharameez/codeorigin</a> (Private)</strong>
-    <p>Technical due diligence platform conducting static analysis on codebase ASTs, mapping import/export trees, auditing CycloneDX SBOM licenses, and scoring circular dependency loops.</p>
-    <em>Hardware Stack: FastAPI &bull; Python AST &bull; React &bull; PostgreSQL &bull; TypeScript</em>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>[▶] SELECT MODULE // M-04 // CAMPUSBUDDY (BIOMETRICS)</b></summary>
-  <br/>
-  <blockquote>
-    <strong>Operational Status: ACTIVE // Repository: <a href="https://github.com/Basharameez/student-info-portal" target="_blank">Basharameez/student-info-portal</a></strong>
-    <p>Student portal with biometric verification, integrating YuNet face detection and SFace recognition models utilizing ONNX runtimes for client-side execution.</p>
-    <em>Hardware Stack: React &bull; Vite &bull; CapacitorJS &bull; FastAPI &bull; MongoDB Atlas &bull; ONNX</em>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>[▶] SELECT MODULE // M-05 // SIH HACKATHON PLATFORM</b></summary>
-  <br/>
-  <blockquote>
-    <strong>Operational Status: DEPLOYED // Repository: <a href="https://github.com/Basharameez/NEC_AI" target="_blank">Basharameez/NEC_AI</a></strong>
-    <p>Hackathon coordinator dashboard managing spreadsheets compilation, judge assignment queues, activation tokens, and state-machine transitions.</p>
-    <em>Hardware Stack: FastAPI &bull; Python &bull; SQLAlchemy &bull; PostgreSQL &bull; React</em>
-  </blockquote>
-</details>
+I don't just train models. I build the complete software systems around them — from understanding complex requirements and mapping relational databases to implementing real-time WebSocket communication, ONNX-based model inference, and secure deployment gates.
 
 ---
 
-### 🔴 04 // DEPLOYMENT CHRONOLOGY
+## What I Build
 
-#### Full-Stack Systems Engineer — AfterQuery
-##### DEPLOYED REMOTE | 2026
-*   Configured repository static analysis hooks, AST traversals, FastAPI endpoints, and modular datagrids.
-*   Employed async workers to audit source code components structures.
-*   Conducted architectural analysis on codebase systems to ensure compliance with technical specifications.
-
-#### Full-Stack Systems Engineer — RotorDyn
-##### SYSTEM TELEMETRY INTEGRATION | 2026
-*   Built a SaaS-based rotor and bearing vibration analysis platform using React, Vite, FastAPI, Supabase, PostgreSQL, and Plotly.js.
-*   Engineered telemetry data ingestion pipelines and custom visualization widgets using Python and Pandas, including FFT-based vibration analysis.
+*   **AI/ML & Computer Vision:** PyTorch model workflows, semantic cell segmentation, face recognition, object detection, and model interpretability.
+*   **Generative AI:** Retrieval-augmented generation (RAG) pipelines, context-aware AI assistants, prompt engineering, and workflow validation.
+*   **Full-Stack & Backend Systems:** Low-latency FastAPI and Node.js REST services, relational SQL database structures, and WebSockets.
+*   **Developer Tooling:** AST parsers, license SBOM compilers, and technical due diligence static audit pipelines.
 
 ---
 
-### 🔴 05 // COMPLIANCE CERTIFICATION
+## Professional Experience
 
-#### B.Tech Production Cycle // NEC CSE-AI JNTUK
-*   Calibration verified across neural networks, compiler stages, and statistical models.
-*   Chronology Node: **2022 &ndash; 2026** &bull; Score Metric: **CGPA 7.79 / 10**
+### AfterQuery
+**Full Stack Engineer** | *May 2026 – Present*
+*   Work on full-stack engineering, debugging, testing, and software evaluation across real-world software projects.
+*   Review and validate implementations against technical requirements, expected behavior, and application/business logic.
+*   Debug existing production-oriented codebases involving frontend, backend, APIs, databases, authentication, and workflow logic.
+*   Investigate software defects, implement fixes, and verify behavior through focused technical testing.
 
-#### Explainable AI (XAI) QA Publication
-*   Published in **IEEE Xplore** in **2026**.
-*   *Focus*: Tracing gradient activation layers and mapping features interpretability inside active neural matrices.
+### RotorDyn
+**Full Stack Engineer** | *June 2026 – July 2026*
+*   Built a SaaS-based rotor and bearing vibration analysis platform using React, Vite, Python, FastAPI, Supabase, PostgreSQL, Pandas, and Plotly.js.
+*   Developed frontend dashboards, authentication workflows, data-analysis interfaces, REST APIs, and backend services.
+*   Built CSV/Excel telemetry processing workflows using Python and Pandas, including FFT-based vibration analysis.
+*   Created interactive diagnostics plots with Plotly.js and optimized large-dataset visualization.
+*   Integrated AI-powered automated report generation and in-app AI assistant capabilities.
 
 ---
 
-### 🌐 CONNECT SIGNAL
+## Generative AI & Intelligent Applications
 
-<p align="center">
-  <a href="mailto:shaikbashah20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-101014?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=1a1a24" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/shaik-rameezbasha-151740286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-101014?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=1a1a24" alt="LinkedIn" />
-  </a>
-</p>
+My work in Generative AI focuses on the **application layer** — integrating models into workflows and interfaces to solve specific problems, rather than claiming foundation model pretraining.
+*   **LLM Integration:** Connecting OpenAI API and open models to secure backend APIs with structured JSON output parsing.
+*   **RAG & Context Management:** Implementing semantic search vectors and in-memory caches to feed context to prompts.
+*   **Human-in-the-Loop Triage:** Structuring UI workflows where AI processes raw input (e.g. image-quality validation) and projects explainable attributions for human approval.
+*   **Evaluation & Guardrails:** Validating model response boundaries against JSON schemas to check for hallucinations.
+
+---
+
+## Flagship Projects
+
+### 01. Remote Treatment Monitoring (RTM) Intelligence Layer
+*   **Value Proposition:** Applied AI clinician-support layer for remote treatment monitoring workflows.
+*   **Technologies:** Python, PyTorch, Explainable AI, Grad-CAM, FastAPI, React
+*   **Technical Description:** An experimental prototype validating patient image inputs (resolution and lighting metrics) and overlaying Grad-CAM gradient focus attributions to assist clinicians in triage reviews.
+*   **Repository:** [snazzy](https://github.com/Basharameez/snazzy)
+
+### 02. BioVision-Path
+*   **Value Proposition:** Explainable multi-task biomedical computer vision pipeline.
+*   **Technologies:** Python, PyTorch, Grad-CAM, Hugging Face Spaces, Gradio
+*   **Technical Description:** An end-to-end biomedical computer vision workflow performing cell segmentation, object detection, and embedding-based image search, backed by Grad-CAM layers for model explainability.
+*   **Repository:** [BioVision-Path](https://github.com/Basharameez/BioVision-Path) &bull; [Live Demo Space](https://huggingface.co/spaces/BASHARAMEEZ/BioVision-Path)
+
+### 03. CodeOrigin
+*   **Value Proposition:** Technical due diligence and repository intelligence platform.
+*   **Technologies:** Python, FastAPI, AST parsing, PostgreSQL, React
+*   **Technical Description:** Audits codebase acquisitions by compiling CycloneDX SBOMs, analyzing cyclic package dependencies using abstract syntax trees, and calculating shingle/MinHash similarity indexes to detect code duplication.
+*   **Repository:** [codeorigin](https://github.com/Basharameez/codeorigin) *(Private)*
+
+### 04. CampusBuddy — Student Info & Face Recognition
+*   **Value Proposition:** Multi-platform student administration portal with biometric authentication.
+*   **Technologies:** React, Vite, CapacitorJS, FastAPI, Python, MongoDB Atlas, ONNX
+*   **Technical Description:** Integrates YuNet face detection and SFace recognition models into a student portal, utilizing ONNX runtime exports for client-side biometric verification.
+*   **Repository:** [student-info-portal](https://github.com/Basharameez/student-info-portal)
+
+### 05. SIH College Management & Intelligence Platform
+*   **Value Proposition:** Internal Smart India Hackathon college management and evaluation system.
+*   **Technologies:** FastAPI, Python, SQLAlchemy, PostgreSQL, React, TypeScript
+*   **Technical Description:** Coordinating coordinator registrations, judge evaluation assignments, spreadsheets compilation, activation tokens, and state-machine transitions.
+*   **Repository:** [NEC_AI](https://github.com/Basharameez/NEC_AI)
+
+---
+
+## Additional Work
+
+### Contest Hoster
+*   **Technologies:** React, Node.js, Express.js, WebSockets, JWT, REST APIs
+*   **Technical Description:** A full-stack real-time platform coordinating contest hosting services, utilizing WebSocket channels for low-latency updates and JWT tokens for secure authentication.
+*   **Repository:** Local codebase
+
+### sheetal-net-v2
+*   **Technologies:** HTML5, CSS3, JavaScript, GitHub Pages
+*   **Technical Description:** A refactored responsive static site demonstrating client-side widget integrations and layout optimization.
+*   **Repository:** [sheetal-net-v2](https://github.com/Basharameez/sheetal-net-v2)
+
+---
+
+## Research & Publication
+
+### Explainable AI for Suicide Ideation Detection in Social Media Text
+*   **Publisher:** IEEE
+*   **Conference:** 2025 3rd DMIHER International Conference on Artificial Intelligence in Healthcare, Education and Industry (IDICAIHEI)
+*   **Status:** Published in IEEE Xplore, 23 February 2026
+*   **Authors:** G. Nagendram, Shaik Hussain Vali, Shaik Rameez Basha, Y. Venkatesh, Y. Ramesh, M. Shamila
+*   **DOI:** [10.1109/IDICAIHEI65991.2025.11377560](https://doi.org/10.1109/IDICAIHEI65991.2025.11377560)
+*   **Paper Link:** [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11377560/)
+*   **Abstract Summary:** Explores text classification models (including BERTimbau, DistilBERT, XLM-R, CNN-BiLSTM, and Random Forest) to identify suicidal ideation in Brazilian Portuguese social media datasets, applying explainability frameworks to trace attribution models.
+*   **Keywords:** NLP, Transformers, BERT, BERTimbau, DistilBERT, XLM-R, CNN-BiLSTM, Embeddings, Explainable AI, Text Classification
+
+---
+
+## Technical Stack
+
+*   **AI / Machine Learning:** Python &bull; PyTorch &bull; Machine Learning &bull; Deep Learning &bull; Computer Vision &bull; NLP &bull; Transformers &bull; Explainable AI &bull; ONNX &bull; Grad-CAM
+*   **Generative AI:** Generative AI &bull; LLM Applications &bull; Prompt Engineering &bull; RAG &bull; Embeddings &bull; AI Evaluation &bull; AI Assistants &bull; Human-in-the-Loop AI
+*   **Backend:** FastAPI &bull; Python &bull; Node.js &bull; Express.js &bull; REST APIs &bull; WebSockets &bull; JWT Authentication
+*   **Frontend:** React &bull; TypeScript &bull; JavaScript &bull; Vite &bull; Tailwind CSS &bull; D3.js &bull; Plotly.js
+*   **Databases:** PostgreSQL &bull; Supabase &bull; MongoDB &bull; SQL
+*   **Engineering:** Docker &bull; Testing &bull; Git/GitHub &bull; Production Hardening &bull; Performance Optimization
+
+---
+
+## Engineering Philosophy
+
+1.  **AI is a Component, Not the System:** A raw model has no business value until it is wrapped in reliable APIs, validated preprocessing pipelines, clean user interfaces, and robust testing suites.
+2.  **Explainability Informs Actions:** In domains like medical monitoring or codebase risk audits, users must understand *why* the AI flagged a record. Clear focus attributions (like Grad-CAM) build trust.
+3.  **Human-in-the-Loop Triage:** AI is most effective when it handles high-volume preprocessing and alerts, leaving the final critical decisions to human experts.
+4.  **Absorb Complexity:** Code should absorb complexity internally, delivering simple, maintainable API routes and intuitive interfaces.
+
+---
+
+## Currently Exploring
+
+*   Retrieval-Augmented Generation (RAG) caches
+*   ONNX client-side browser inference
+*   AI evaluation benchmarks & schema guardrails
+*   Scalable backend architectures
+
+---
+
+## Connect
+
+*   **Portfolio:** [my-portfolio-six-murex-52.vercel.app](https://my-portfolio-six-murex-52.vercel.app/)
+*   **LinkedIn:** [linkedin.com/in/shaik-rameezbasha-151740286/](https://www.linkedin.com/in/shaik-rameezbasha-151740286/)
+*   **Email:** [shaikbashah20@gmail.com](mailto:shaikbashah20@gmail.com)
