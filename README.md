@@ -1,152 +1,520 @@
-# Shaik Rameez Basha
+<div align="center">
 
-### AI/ML & GenAI Engineer | Full-Stack Engineer
+# SHAIK RAMEEZ BASHA
 
-Building production-oriented intelligent systems across LLM applications, computer vision, explainable AI, NLP, and full-stack engineering.
+### SOFTWARE ENGINEER · AI SYSTEMS BUILDER
 
-[Portfolio](https://my-portfolio-six-murex-52.vercel.app/) &bull; [LinkedIn](https://www.linkedin.com/in/shaik-rameezbasha-151740286/) &bull; [Email](mailto:shaikbashah20@gmail.com)
+<br>
 
----
+<table>
+<tr>
+<td align="center"><b>AI SYSTEMS</b></td>
+<td align="center"><b>SOFTWARE ENGINEERING</b></td>
+<td align="center"><b>DEVELOPER INFRASTRUCTURE</b></td>
+<td align="center"><b>ENGINEERING ANALYTICS</b></td>
+</tr>
+</table>
 
-## About Me
+<br>
 
-I am an AI/ML & GenAI Engineer focused on building production-oriented intelligent applications that combine AI with practical software engineering. My work spans LLM-powered applications, AI assistants, AI-powered report generation, computer vision, explainable AI, intelligent workflow systems, backend engineering, frontend applications, databases, APIs, testing, and deployment.
+<h3>BUILDING INTELLIGENT SYSTEMS FOR COMPLEX PROBLEMS.</h3>
 
-I don't just train models. I build the complete software systems around them — from understanding complex requirements and mapping relational databases to implementing real-time WebSocket communication, ONNX-based model inference, and secure deployment gates.
+<p>
+<a href="mailto:shaikbashah20@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-171717?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shaik-rameez-basha-151740286/">
+<img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Basharameez">
+<img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
----
-
-## What I Build
-
-*   **AI/ML & Computer Vision:** PyTorch model workflows, semantic cell segmentation, face recognition, object detection, and model interpretability.
-*   **Generative AI:** Retrieval-augmented generation (RAG) pipelines, context-aware AI assistants, prompt engineering, and workflow validation.
-*   **Full-Stack & Backend Systems:** Low-latency FastAPI and Node.js REST services, relational SQL database structures, and WebSockets.
-*   **Developer Tooling:** AST parsers, license SBOM compilers, and technical due diligence static audit pipelines.
-
----
-
-## Professional Experience
-
-### AfterQuery
-**Full Stack Engineer** | *May 2026 – Present*
-*   Work on full-stack engineering, debugging, testing, and software evaluation across real-world software projects.
-*   Review and validate implementations against technical requirements, expected behavior, and application/business logic.
-*   Debug existing production-oriented codebases involving frontend, backend, APIs, databases, authentication, and workflow logic.
-*   Investigate software defects, implement fixes, and verify behavior through focused technical testing.
-
-### RotorDyn
-**Full Stack Engineer** | *June 2026 – July 2026*
-*   Built a SaaS-based rotor and bearing vibration analysis platform using React, Vite, Python, FastAPI, Supabase, PostgreSQL, Pandas, and Plotly.js.
-*   Developed frontend dashboards, authentication workflows, data-analysis interfaces, REST APIs, and backend services.
-*   Built CSV/Excel telemetry processing workflows using Python and Pandas, including FFT-based vibration analysis.
-*   Created interactive diagnostics plots with Plotly.js and optimized large-dataset visualization.
-*   Integrated AI-powered automated report generation and in-app AI assistant capabilities.
+</div>
 
 ---
 
-## Generative AI & Intelligent Applications
+## IDENTITY
 
-My work in Generative AI focuses on the **application layer** — integrating models into workflows and interfaces to solve specific problems, rather than claiming foundation model pretraining.
-*   **LLM Integration:** Connecting OpenAI API and open models to secure backend APIs with structured JSON output parsing.
-*   **RAG & Context Management:** Implementing semantic search vectors and in-memory caches to feed context to prompts.
-*   **Human-in-the-Loop Triage:** Structuring UI workflows where AI processes raw input (e.g. image-quality validation) and projects explainable attributions for human approval.
-*   **Evaluation & Guardrails:** Validating model response boundaries against JSON schemas to check for hallucinations.
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+### SOFTWARE ENGINEER × AI SYSTEMS BUILDER
 
-## Flagship Projects
+I build systems at the intersection of **software engineering, artificial intelligence, developer infrastructure, and complex data**.
 
-### 01. Remote Treatment Monitoring (RTM) Intelligence Layer
-*   **Value Proposition:** Applied AI clinician-support layer for remote treatment monitoring workflows.
-*   **Technologies:** Python, PyTorch, Explainable AI, Grad-CAM, FastAPI, React
-*   **Technical Description:** An experimental prototype validating patient image inputs (resolution and lighting metrics) and overlaying Grad-CAM gradient focus attributions to assist clinicians in triage reviews.
-*   **Repository:** [snazzy](https://github.com/Basharameez/snazzy)
+My work focuses on taking difficult problems from an initial idea through architecture, implementation, deployment, and continuous improvement.
 
-### 02. BioVision-Path
-*   **Value Proposition:** Explainable multi-task biomedical computer vision pipeline.
-*   **Technologies:** Python, PyTorch, Grad-CAM, Hugging Face Spaces, Gradio
-*   **Technical Description:** An end-to-end biomedical computer vision workflow performing cell segmentation, object detection, and embedding-based image search, backed by Grad-CAM layers for model explainability.
-*   **Repository:** [BioVision-Path](https://github.com/Basharameez/BioVision-Path) &bull; [Live Demo Space](https://huggingface.co/spaces/BASHARAMEEZ/BioVision-Path)
+I am especially interested in problems where the data is complex, the system must evolve, and the solution requires more than simply connecting existing tools.
 
-### 03. CodeOrigin
-*   **Value Proposition:** Technical due diligence and repository intelligence platform.
-*   **Technologies:** Python, FastAPI, AST parsing, PostgreSQL, React
-*   **Technical Description:** Audits codebase acquisitions by compiling CycloneDX SBOMs, analyzing cyclic package dependencies using abstract syntax trees, and calculating shingle/MinHash similarity indexes to detect code duplication.
-*   **Repository:** [codeorigin](https://github.com/Basharameez/codeorigin) *(Private)*
+> **Complexity should be absorbed by the system, not transferred to the user.**
 
-### 04. CampusBuddy — Student Info & Face Recognition
-*   **Value Proposition:** Multi-platform student administration portal with biometric authentication.
-*   **Technologies:** React, Vite, CapacitorJS, FastAPI, Python, MongoDB Atlas, ONNX
-*   **Technical Description:** Integrates YuNet face detection and SFace recognition models into a student portal, utilizing ONNX runtime exports for client-side biometric verification.
-*   **Repository:** [student-info-portal](https://github.com/Basharameez/student-info-portal)
+</td>
 
-### 05. SIH College Management & Intelligence Platform
-*   **Value Proposition:** Internal Smart India Hackathon college management and evaluation system.
-*   **Technologies:** FastAPI, Python, SQLAlchemy, PostgreSQL, React, TypeScript
-*   **Technical Description:** Coordinating coordinator registrations, judge evaluation assignments, spreadsheets compilation, activation tokens, and state-machine transitions.
-*   **Repository:** [NEC_AI](https://github.com/Basharameez/NEC_AI)
+<td width="40%" valign="top">
+
+### CURRENT OPERATING MODE
+
+<table>
+<tr><td align="center"><b>UNDERSTAND</b></td></tr>
+<tr><td align="center">↓</td></tr>
+<tr><td align="center"><b>ARCHITECT</b></td></tr>
+<tr><td align="center">↓</td></tr>
+<tr><td align="center"><b>BUILD</b></td></tr>
+<tr><td align="center">↓</td></tr>
+<tr><td align="center"><b>IMPROVE</b></td></tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-9B1C1C?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Additional Work
+## CAPABILITIES
 
-### Contest Hoster
-*   **Technologies:** React, Node.js, Express.js, WebSockets, JWT, REST APIs
-*   **Technical Description:** A full-stack real-time platform coordinating contest hosting services, utilizing WebSocket channels for low-latency updates and JWT tokens for secure authentication.
-*   **Repository:** Local codebase
+<table>
+<tr>
+<td width="25%" align="center">
 
-### sheetal-net-v2
-*   **Technologies:** HTML5, CSS3, JavaScript, GitHub Pages
-*   **Technical Description:** A refactored responsive static site demonstrating client-side widget integrations and layout optimization.
-*   **Repository:** [sheetal-net-v2](https://github.com/Basharameez/sheetal-net-v2)
+<img src="https://img.shields.io/badge/AI-171717?style=for-the-badge&logo=openai&logoColor=white" />
 
----
+### AI SYSTEMS
 
-## Research & Publication
+Machine learning, explainable AI, intelligent applications, and LLM-powered workflows.
 
-### Explainable AI for Suicide Ideation Detection in Social Media Text
-*   **Publisher:** IEEE
-*   **Conference:** 2025 3rd DMIHER International Conference on Artificial Intelligence in Healthcare, Education and Industry (IDICAIHEI)
-*   **Status:** Published in IEEE Xplore, 23 February 2026
-*   **Authors:** G. Nagendram, Shaik Hussain Vali, Shaik Rameez Basha, Y. Venkatesh, Y. Ramesh, M. Shamila
-*   **DOI:** [10.1109/IDICAIHEI65991.2025.11377560](https://doi.org/10.1109/IDICAIHEI65991.2025.11377560)
-*   **Paper Link:** [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11377560/)
-*   **Abstract Summary:** Explores text classification models (including BERTimbau, DistilBERT, XLM-R, CNN-BiLSTM, and Random Forest) to identify suicidal ideation in Brazilian Portuguese social media datasets, applying explainability frameworks to trace attribution models.
-*   **Keywords:** NLP, Transformers, BERT, BERTimbau, DistilBERT, XLM-R, CNN-BiLSTM, Embeddings, Explainable AI, Text Classification
+</td>
 
----
+<td width="25%" align="center">
 
-## Technical Stack
+<img src="https://img.shields.io/badge/CODE-171717?style=for-the-badge&logo=react&logoColor=white" />
 
-*   **AI / Machine Learning:** Python &bull; PyTorch &bull; Machine Learning &bull; Deep Learning &bull; Computer Vision &bull; NLP &bull; Transformers &bull; Explainable AI &bull; ONNX &bull; Grad-CAM
-*   **Generative AI:** Generative AI &bull; LLM Applications &bull; Prompt Engineering &bull; RAG &bull; Embeddings &bull; AI Evaluation &bull; AI Assistants &bull; Human-in-the-Loop AI
-*   **Backend:** FastAPI &bull; Python &bull; Node.js &bull; Express.js &bull; REST APIs &bull; WebSockets &bull; JWT Authentication
-*   **Frontend:** React &bull; TypeScript &bull; JavaScript &bull; Vite &bull; Tailwind CSS &bull; D3.js &bull; Plotly.js
-*   **Databases:** PostgreSQL &bull; Supabase &bull; MongoDB &bull; SQL
-*   **Engineering:** Docker &bull; Testing &bull; Git/GitHub &bull; Production Hardening &bull; Performance Optimization
+### SOFTWARE
 
----
+Full-stack products, APIs, databases, distributed workflows, and production systems.
 
-## Engineering Philosophy
+</td>
 
-1.  **AI is a Component, Not the System:** A raw model has no business value until it is wrapped in reliable APIs, validated preprocessing pipelines, clean user interfaces, and robust testing suites.
-2.  **Explainability Informs Actions:** In domains like medical monitoring or codebase risk audits, users must understand *why* the AI flagged a record. Clear focus attributions (like Grad-CAM) build trust.
-3.  **Human-in-the-Loop Triage:** AI is most effective when it handles high-volume preprocessing and alerts, leaving the final critical decisions to human experts.
-4.  **Absorb Complexity:** Code should absorb complexity internally, delivering simple, maintainable API routes and intuitive interfaces.
+<td width="25%" align="center">
 
----
+<img src="https://img.shields.io/badge/INTEL-171717?style=for-the-badge&logo=github&logoColor=white" />
 
-## Currently Exploring
+### INTELLIGENCE
 
-*   Retrieval-Augmented Generation (RAG) caches
-*   ONNX client-side browser inference
-*   AI evaluation benchmarks & schema guardrails
-*   Scalable backend architectures
+Code analysis, repository intelligence, developer tools, and technical due diligence.
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/DATA-171717?style=for-the-badge&logo=plotly&logoColor=white" />
+
+### COMPLEX DATA
+
+Engineering analytics, scientific computing, telemetry, and interactive visualization.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect
+## ENGINEERING SCALE
 
-*   **Portfolio:** [my-portfolio-six-murex-52.vercel.app](https://my-portfolio-six-murex-52.vercel.app/)
-*   **LinkedIn:** [linkedin.com/in/shaik-rameezbasha-151740286/](https://www.linkedin.com/in/shaik-rameezbasha-151740286/)
-*   **Email:** [shaikbashah20@gmail.com](mailto:shaikbashah20@gmail.com)
+<table>
+<tr>
+<td align="center">
+
+### 5+
+
+<b>ENGINEERING DOMAINS</b>
+
+</td>
+<td align="center">
+
+### 1
+
+<b>IEEE XPLORE PUBLICATION</b>
+
+</td>
+<td align="center">
+
+### 2026
+
+<b>SOFTWARE ENGINEERING</b>
+
+</td>
+<td align="center">
+
+### ∞
+
+<b>PROBLEMS TO SOLVE</b>
+
+</td>
+</tr>
+</table>
+
+---
+
+## SYSTEMS
+
+### 01 / CODEORIGIN
+
+#### SOFTWARE INTELLIGENCE
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+A platform for analyzing software repositories and extracting intelligence about architecture, code quality, security, maintainability, and engineering maturity.
+
+The system is designed around the idea that source code contains far more information than its raw text: structure, relationships, patterns, dependencies, and signals of engineering quality.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/AST-171717?style=flat-square&logo=python&logoColor=white" />
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://img.shields.io/badge/ACTIVE-9B1C1C?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/Basharameez/codeorigin">
+<b>EXPLORE SYSTEM →</b>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 02 / MODELFORGE
+
+#### MLOPS INFRASTRUCTURE
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+A production-oriented machine learning platform built around model lifecycle management, experimentation, evaluation, and deployment infrastructure.
+
+The goal is to make machine learning systems more observable, repeatable, and operationally reliable.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=white" />
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-9B1C1C?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 03 / INFRASIGHT AI
+
+#### TECHNICAL INTELLIGENCE
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+An AI-powered platform designed to analyze complex software and infrastructure environments and transform technical information into actionable engineering insights.
+
+The system explores how AI can help convert technical complexity into structured understanding.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=white" />
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-9B1C1C?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 04 / ROTORDYN
+
+#### INDUSTRIAL ENGINEERING ANALYTICS
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+Engineering software for vibration telemetry, diagnostic visualization, desktop applications, and AI-assisted reporting.
+
+This work combines software engineering with a specialized industrial domain where raw telemetry must become useful engineering insight.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PySide6-171717?style=flat-square&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-171717?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=white" />
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://img.shields.io/badge/ACTIVE-9B1C1C?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 05 / BIOVISION-PATH
+
+#### EXPLAINABLE BIOMEDICAL COMPUTER VISION
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+A production-quality explainable multi-task biomedical computer vision pipeline. Performs colorectal tissue classification (ResNet-18) with Grad-CAM overlays, breast cancer cell nuclei segmentation (U-Net), smear cell detection (Faster R-CNN), and embedding KNN image search.
+
+Features a live dashboard deployed on Hugging Face Spaces.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-171717?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-171717?style=flat-square&logo=gradio&logoColor=white" />
+<img src="https://img.shields.io/badge/ZeroGPU-171717?style=flat-square&logo=huggingface&logoColor=white" />
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://img.shields.io/badge/ACTIVE-9B1C1C?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/Basharameez/BioVision-Path">
+<b>EXPLORE SYSTEM →</b>
+</a>
+<br>
+<a href="https://huggingface.co/spaces/BASHARAMEEZ/BioVision-Path">
+<b>LIVE SPACE →</b>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## EXPERIENCE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AFTERQUERY
+
+**Full-Stack Software Engineer**
+
+`2026`
+
+Repository intelligence, AST-based static analysis, FastAPI services, data processing, and engineering automation.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ROTORDYN
+
+**Software Engineer**
+
+`INDUSTRIAL ANALYTICS`
+
+Telemetry ingestion, engineering visualization, diagnostic workflows, desktop software, and AI-assisted reporting.
+
+</td>
+</tr>
+</table>
+
+---
+
+## RESEARCH
+
+<table>
+<tr>
+<td width="18%" align="center">
+
+<img src="https://img.shields.io/badge/IEEE-171717?style=for-the-badge&logo=ieee&logoColor=white" />
+
+</td>
+<td width="82%">
+
+### EXPLAINABLE ARTIFICIAL INTELLIGENCE
+
+IEEE Xplore publication focused on understanding and interpreting machine learning systems.
+
+`MODEL INTERPRETABILITY` · `NEURAL NETWORK ANALYSIS` · `EXPLAINABLE AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## TECHNOLOGY
+
+<table>
+<tr>
+<td width="20%"><b>LANGUAGES</b></td>
+<td>Python · TypeScript · JavaScript · SQL</td>
+</tr>
+<tr>
+<td><b>FRONTEND</b></td>
+<td>React · Vite · Tailwind CSS · D3.js · Plotly.js</td>
+</tr>
+<tr>
+<td><b>BACKEND</b></td>
+<td>FastAPI · Node.js · Express · REST APIs · WebSockets</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>Machine Learning · Explainable AI · MLOps · LLM Applications</td>
+</tr>
+<tr>
+<td><b>DATA</b></td>
+<td>PostgreSQL · Supabase · MongoDB · SQLite</td>
+</tr>
+<tr>
+<td><b>INFRASTRUCTURE</b></td>
+<td>Docker · Git · Linux · CI/CD · Cloud Deployment</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-171717?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=white" />
+
+</p>
+
+---
+
+## ENGINEERING PHILOSOPHY
+
+<table>
+<tr>
+<td align="center"><b>01</b><br><br>Understand the problem before selecting the technology.</td>
+<td align="center"><b>02</b><br><br>Design systems that can evolve without becoming fragile.</td>
+<td align="center"><b>03</b><br><br>Prefer observable systems over mysterious systems.</td>
+</tr>
+<tr>
+<td align="center"><b>04</b><br><br>Treat architecture as a product decision.</td>
+<td align="center"><b>05</b><br><br>Build tools that make difficult work easier for the next person.</td>
+<td align="center"><b>06</b><br><br>Make complexity useful instead of merely impressive.</td>
+</tr>
+</table>
+
+---
+
+## CURRENT DIRECTION
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/AI-171717?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br><br>
+
+<b>AI-POWERED<br>DEVELOPER TOOLS</b>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/CODE-171717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br><br>
+
+<b>SOFTWARE<br>INTELLIGENCE</b>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/ML-171717?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+<br><br>
+
+<b>MLOPS & MACHINE<br>LEARNING INFRASTRUCTURE</b>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/DATA-171717?style=for-the-badge&logo=plotly&logoColor=white" />
+
+<br><br>
+
+<b>ENGINEERING<br>ANALYTICS</b>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### AI × SOFTWARE ENGINEERING × COMPLEX SYSTEMS
+
+<br>
+
+<sub>Creating systems that make complex technology easier to understand.</sub>
+
+<br><br>
+
+<a href="mailto:shaikbashah20@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/shaik-rameez-basha">
+<img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Basharameez">
+<img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
